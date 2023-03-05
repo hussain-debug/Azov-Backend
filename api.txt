@@ -1,0 +1,27 @@
+1.http://localhost:4000/contact [this is for contact]
+
+POST Method
+
+{
+  "name": "test1",
+  "email": "test1@gmail.com",
+  "number": 8150885670,
+  "msg": "awesome"
+}
+
+2.http://localhost:4000/application [this is for application]
+
+POST Method
+
+{
+  "fullname": "test1",
+  "email": "test1@gmail.com",
+  "number": 990910990,
+  "city": "blr",
+  "course": "mbbs",
+  "country": "india",
+  "university": "taskent"
+}
+
+3.http://localhost:4000/application [GET API]
+4.http://localhost:4000/contact [GET API]
